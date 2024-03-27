@@ -1,0 +1,72 @@
+header nav ul {
+    list-style-type: none; /* Remove bullet points */
+    margin: 0;
+    padding: 10;
+}
+
+header nav ul li {
+    display: inline; /* Display links horizontally */
+}
+
+header nav ul li a {
+    display: flexbox;
+    padding: 10px 10px; /* Add padding to make links clickable */
+    text-decoration: none; /* Remove underline */
+    color: #fff; /* Text color */
+}
+
+header nav ul li a:hover {
+    background-color: #555; /* Background color on hover */
+}
+
+/* Styling for right section */
+.right-section {
+    float: right; /* Float the right section to the right */
+    width: 20%; /* Set width */
+    background-color: #f2f2f2; /* Background color */
+     
+}
+
+/* Styling for footer */
+footer {
+    background-color: #333; /* Background color */
+    color: #fff; /* Text color */
+    padding: 10px; /* Add padding */
+    text-align: center; /* Center-align text */
+}
+
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: right;
+    padding: 5% 0;
+}
+
+main {
+    padding: 20px;
+.h4=text-alignment
+}
+
+
+section {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+}
+
+input{
+    width: 100%;
+    
+}
